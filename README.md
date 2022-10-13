@@ -11,7 +11,7 @@ Module used:
 command to download module:
   - pip install speedtest-cli
   
-For output referance please check the Instagram page : @python_projects_
+For output referance please check out the Instagram page : https://www.instagram.com/hack_smashes/
 
 There I've uploaded my output screenshot and result from the internet screenshot also.
 You can compare the python output with the result from the internet.
